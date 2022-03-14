@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 🚀</h1>
 
-<h3 align="center">I'm Cameron, a Full-Stack Software Developer from Isle of Man 🇮🇲</h3>
+<h3 align="center">I'm Cameron, a Full-Stack Software Developer from the Isle of Man 🇮🇲</h3>
 
 
 <h2 align="left">About me:</h2>
@@ -9,7 +9,7 @@
 
 - 📚 **Passionate about learning everything and anything, I just love what I do.**
 
-- 💬 **Let's talk tech. I'm always on the look out for new exciting opportunities, get in touch!**
+- 💬 **Let's talk tech. Get in touch!**
 
 - 📫 **Email: me@cameronquayle.com**
 
